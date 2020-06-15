@@ -1,5 +1,5 @@
 # TFG
-TFG (Trabajo de Fin de Grado) de Ingeniería Informática en la Universidad de Zaragoza.
+**TFG (Trabajo de Fin de Grado) de Ingeniería Informática en la Universidad de Zaragoza.**
 
 This document will explain all the files in the submission and all the necessary
 instructions for compiling the code:  
